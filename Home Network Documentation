@@ -1,19 +1,18 @@
 Physical network topology
-1
+
 Logical network topology
 
-IP addressing and subnet documentation
-Our internal IP address subnet is 192.168.100.0/24. All of the devices on the network connects to the router being 192.168.100.1/24 to get an automatic IP address using the dhcp server running on the router
-Network device inventory
-The only network device currently in the private network is the wireless microtik router being a wireless router, wired router and mini switch. The device is acting as the default gateway to all access devices on the network
-Servers and network services, if applicable
-The network has one server being the IP address of 192.168.100.200/24. Currently their is no IP services being ran on the server
-Relevant device configuration information
-The router is completely configured and managed by isp being valley fiber So, there is no relvant device configuration information that I know of because I do not have access to the routers management page
-
-A description of the method used to store login credentials securely
-All passwords are stored on the Microtik router
-Revision history
+IP addressing and subnet documentation:
+Our internal IP address subnet is 192.168.1.0/24. All of the devices on the network connects to the router being 192.168.1.1/24 to get an automatic IP address using the dhcp server running on the router
+Network device inventory:
+The only network device currently in the private network is the wireless router being a wireless router, wired router and mini switch. The device is acting as the default gateway to all access devices on the network
+Servers and network services, if applicable:
+The network has one server being the IP address of 192.168.1.20/24. Currently their is no IP services being ran on the server
+Relevant device configuration information:
+The router is completely configured and managed by isp So, there is no relvant device configuration information that I know of because I do not have access to the routers management page
+A description of the method used to store login credentials securely:
+The password used to log into the network is stored on the router as plaintext. To authenticate user on the network the router combines the SSID and the network password and encrypts that information multiple times. If the device trying to connect to the network matches the same encrypted password that is on the router the device is authenticated and able to connect.
+Revision history:
 Document completed on 7/25/2026
 No other changes have been made to the document
 References to any related files or diagrams
