@@ -14,6 +14,7 @@ A description of the method used to store login credentials securely:
 The password used to log into the network is stored on the router as plaintext. To authenticate user on the network the router combines the SSID and the network password and encrypts that information multiple times. If the device trying to connect to the network matches the same encrypted password that is on the router the device is authenticated and able to connect.
 Revision history:
 Document completed on 7/25/2026
+Attached logic and physical topology 7/26/2026
 No other changes have been made to the document
 References to any related files or diagrams
-
+Network topology has been attached to the reporitory with the title of 
