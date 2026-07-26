@@ -12,6 +12,23 @@ Relevant device configuration information:
 The router is completely configured and managed by isp So, there is no relvant device configuration information that I know of because I do not have access to the routers management page
 A description of the method used to store login credentials securely:
 The password used to log into the network is stored on the router as plaintext. To authenticate user on the network the router combines the SSID and the network password and encrypts that information multiple times. If the device trying to connect to the network matches the same encrypted password that is on the router the device is authenticated and able to connect.
+
+IP Table:
+Device:    IP address
+phone 1:  DHCP
+Phone 2:  DHCP
+Phone 3:  DHCP
+Phone 4:  DHCP
+Phone 5:  DHCP
+Computer 1:  DHCP
+Computer 2:  DHCP
+Laptop 1:  DHCP
+Laptop 2:  DHCP
+Router/default gateway:  192.168.1.1
+Server:  192.168.1.20
+Printer:  192.168.1.10
+
+
 Revision history:
 Document completed on 7/25/2026
 Attached logic and physical topology 7/26/2026
