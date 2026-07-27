@@ -3,7 +3,7 @@ Physical network topology is attached to the repository titled HomeNetwork.pdf
 # Logical network topology:  
 Logical network topology is attached to the repository titled HomeNetwork.pdf
 # IP addressing and subnet documentation:
-The home network internal IP address subnet is 192.168.1.0/24. All of the devices on the network connects to the router being 192.168.1.1/24 to get an automatic IP address using the dhcp server running on the router. Every device except Computer number 1 and the server has a wireless connection to the router. The router also is the primary dns server to all devices in the network
+The home network internal IP address subnet is 192.168.1.0/24. All of the devices on the network connects to the router being 192.168.1.1/24 to get an automatic IP address using the dhcp server running on the router. Every device except printer and the server has a wireless connection to the router. The router also is the primary dns server to all devices in the network
 # Network device inventory:
 The only network device currently in the private network is the router acting as a wireless router, wired router and mini switch. The device is acting as the default gateway to all access devices on the network
 # Servers and network services, if applicable:
