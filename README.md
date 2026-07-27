@@ -30,7 +30,7 @@ The password used to log into the network is stored on the router as plaintext. 
 |Printer|192.168.1.10|Wireless| 
 
 
-Revision history:
+# Revision history:
 Document completed on 7/25/2026
 Attached logic and physical topology 7/26/2026
 No other changes have been made to the document
