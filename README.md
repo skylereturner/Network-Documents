@@ -1,5 +1,5 @@
 # Physical network topology:  
-Physical network topology is attached to the repository titled HomeNetwork.pdf
+Physical network topology is attached to the repository titled assignment 5 
 # Logical network topology:  
 Logical network topology is attached to the repository titled HomeNetwork.pdf
 # IP addressing and subnet documentation:
