@@ -33,7 +33,7 @@ The password used to log into the network is stored on the router as plaintext. 
 # Revision history:
 Document completed on 7/25/2026  
 Attached logical and physical topology 7/26/2026  
-Replace the Topology PDF with new and improved version 7/27/2026
+Replace the Topology PDF with new and improved version 7/27/2026  
 Fixed grammar mistakes  
 No other changes have been made to the document  
 # References to any related files or diagrams
