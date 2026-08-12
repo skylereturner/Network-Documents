@@ -1,20 +1,9 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="vaTRsxsSvGLfQqFz9tB4">
-    <mxGraphModel dx="2567" dy="2208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2321" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OzVaJsNCfcUqxS6PCMtQ-86" edge="1" parent="1" source="OzVaJsNCfcUqxS6PCMtQ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="940.3529411764707" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OzVaJsNCfcUqxS6PCMtQ-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#E51400,#FF0000);fontColor=#ffffff;strokeColor=#B20000;" value="" vertex="1">
-          <mxGeometry height="900" width="560" x="630" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OzVaJsNCfcUqxS6PCMtQ-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;opacity=90;" value="" vertex="1">
-          <mxGeometry height="1050" width="700" x="-70" y="-15" as="geometry" />
-        </mxCell>
         <mxCell id="P6FmdTyWBxim5KlP9juI-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="HQ-R1" vertex="1">
           <mxGeometry height="60" width="120" x="150" y="160" as="geometry" />
         </mxCell>
