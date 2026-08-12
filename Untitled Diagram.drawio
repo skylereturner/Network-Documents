@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="vaTRsxsSvGLfQqFz9tB4">
-    <mxGraphModel dx="2435" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1934" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,6 +224,51 @@
         </mxCell>
         <mxCell id="OzVaJsNCfcUqxS6PCMtQ-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DHCP" vertex="1">
           <mxGeometry height="30" width="60" x="1060" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="OzVaJsNCfcUqxS6PCMtQ-63" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="440" y="480" as="sourcePoint" />
+            <mxPoint x="530" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OzVaJsNCfcUqxS6PCMtQ-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Running on server" vertex="1">
+          <mxGeometry height="30" width="60" x="500" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="OzVaJsNCfcUqxS6PCMtQ-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="NTP-Server" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="OzVaJsNCfcUqxS6PCMtQ-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="IP: 192.168.0.21" vertex="1">
+          <mxGeometry height="30" width="60" x="395" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="OzVaJsNCfcUqxS6PCMtQ-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Monitoring Server" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="OzVaJsNCfcUqxS6PCMtQ-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="IP: 192.168.0.22" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="OzVaJsNCfcUqxS6PCMtQ-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Mail Server" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="OzVaJsNCfcUqxS6PCMtQ-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="IP:&amp;nbsp; 192.168.0.24" vertex="1">
+          <mxGeometry height="30" width="60" x="660" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="OzVaJsNCfcUqxS6PCMtQ-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="File/Web app Server" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="OzVaJsNCfcUqxS6PCMtQ-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Domain Controller" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="OzVaJsNCfcUqxS6PCMtQ-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Asset Tracking Server" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="OzVaJsNCfcUqxS6PCMtQ-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="IP: 192.168.0.26" vertex="1">
+          <mxGeometry height="30" width="60" x="390" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="OzVaJsNCfcUqxS6PCMtQ-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="IP: 192.168.0.20" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="OzVaJsNCfcUqxS6PCMtQ-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="IP: 192.168.0.107" vertex="1">
+          <mxGeometry height="30" width="60" x="660" y="970" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
